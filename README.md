@@ -4,5 +4,5 @@
 
 ## Getting started
 
-install python 3.10
-pip install -r requirements.txt
+1. Create an environment to run notebooks and pytorch
+2. Run the notebook
