@@ -1,6 +1,6 @@
 # Basic Transfer Learning
 
-A minimal transfer learning example project for the *Learning from Images* and other related courses given by Prof. Hildebrand at the *Berliner Hochschule für Technik* (BHT).
+A minimal transfer learning example project for the course *Learning from Images* and other related courses by Prof. Hildebrand at *Berliner Hochschule für Technik* (BHT).
 
 ## Getting started
 
